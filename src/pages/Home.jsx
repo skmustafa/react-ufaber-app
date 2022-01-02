@@ -187,12 +187,12 @@ const Home = () => {
                 </div>
                 <div className="row">
                     <div className="col-6 text-end">
-                        <a href="#" className='btn btn-warning btn-lg text-white'>
+                        <a href="https://ufaber.com/" className='btn btn-warning btn-lg text-white'>
                             <i className='fas fa-globe pe-2'></i> Website
                         </a>
                     </div>
                     <div className="col-6">
-                        <a href="#" className='btn btn-danger btn-lg'>
+                        <a href="https://youtube.com/" className='btn btn-danger btn-lg'>
                             <i className='fab fa-youtube pe-2'></i> Youtube
                         </a>
                     </div>
